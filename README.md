@@ -4,7 +4,7 @@ This is a simple example about blockchain implementation using Typescript
 
 ## Getting Started
 
-These is just a example about blockchain implementation for education purpose, don't use this for create your cryptocurrency.
+This is just an example about blockchain implementation for education purpose, don't use this for create your cryptocurrency.
 
 ### Prerequisites
 
@@ -22,5 +22,5 @@ Just run this
 npm start
 ```
 
-###Proof-of-work (PoW)
+### Proof-of-work (PoW)
 You can change difficulty (default 2) at Blockchain Class and miner Rewards (default 100).
